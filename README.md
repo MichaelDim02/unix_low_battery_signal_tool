@@ -1,4 +1,4 @@
-# unix_low_battery_signal_tool
+# Unix low battery signaling tool (ulbast?)
 A minimal utility I created myself to help me with power management. If you use a wm like i3 or dwm, setting up a proper power utility system so I hope this might help you as well.
 
 ## What you'll need
