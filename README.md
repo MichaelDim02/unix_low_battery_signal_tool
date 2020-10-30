@@ -16,6 +16,6 @@ Make sure it's running.
 Make sure your crontab includes these lines
 ```
 DISPLAY=:0.0
-\* \* \* \* \* export XDG_RUNTIME_DIR=/run/user/`id -u` ; /bin/bash /home/michael/bat.sh
+* * * * * export XDG_RUNTIME_DIR=/run/user/`id -u` ; /bin/bash /home/michael/bat.sh
  ```
 
