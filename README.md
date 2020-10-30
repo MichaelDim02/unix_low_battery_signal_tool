@@ -1,5 +1,5 @@
 # Unix low battery signaling tool (ulbast?)
-A minimal utility I created myself to help me with power management. If you use a wm like i3 or dwm, setting up a proper power utility system so I hope this might help you as well.
+A minimal utility I setup to help me with power management. If you use a wm like i3 or dwm, setting up a proper power utility system so I hope this might help you as well.
 
 ## What you'll need
 * acpi to get the battery information
