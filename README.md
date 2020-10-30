@@ -11,4 +11,9 @@ Make sure it's running.
 * notify-send to send the notification to Dunst
 * mpv to play the siren sound, which btw is from pacman :)
 ``` sudo pacman -S mpv ```
-* Cronie \n https://www.youtube.com/watch?v=rgSxYvFWjUY
+* Cronie https://www.youtube.com/watch?v=rgSxYvFWjUY
+
+Make sure your crontab includes these lines ```
+DISPLAY=:0.0
+ * * * * * export XDG_RUNTIME_DIR=/run/user/`id -u` ; /bin/bash /home/michael/bat.sh```
+
