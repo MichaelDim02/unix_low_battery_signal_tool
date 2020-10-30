@@ -9,6 +9,7 @@ A minimal utility I created myself to help me with power management. If you use 
 Make sure it's running.
 
 * notify-send to send the notification to Dunst
+```sudo pacman -S dunst```
 * mpv to play the siren sound, which btw is from pacman :)
 ``` sudo pacman -S mpv ```
 * Cronie https://www.youtube.com/watch?v=rgSxYvFWjUY
